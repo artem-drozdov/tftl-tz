@@ -1,19 +1,17 @@
-# tftl-tz
+# Vue SPA Application | MOZGI
 
-## Project setup
-```
-npm install
-```
+## 🖍 Requirements
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+-   [NodeJS](https://nodejs.org/en/) (16.x.x);
+-   [NPM](https://www.npmjs.com/) (8.x.x);
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 🏃‍♂️ Simple Start In Development Mode
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. Install dependencies:
+    ```
+        npm install
+    ```
+2. Start app in development mode
+    ```
+        npm run serve
+    ```
